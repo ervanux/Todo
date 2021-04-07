@@ -1,0 +1,18 @@
+/* 
+  Localization.strings
+  Todo
+
+  Created by Erkan Ugurlu on 28.03.2021.
+  
+*/
+
+"addNewTitle" = "Add New ToDo";
+"updateTitle" = "Update ToDo";
+"OK" = "OK";
+"Warning" = "Warning";
+"error_create" = "Not possible to create";
+"warning_create" = "Please check your inputs!";
+"error_update" = "Not possible to update";
+"error_delete" = "Not possible to delete";
+"error_list" = "Not possible to fetch";
+"warning_update" = "There is nothing to update!";
