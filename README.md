@@ -1,5 +1,5 @@
 # Todo
-a tiny sample project that demonstrate `MVC` with `UseCase`, `Repository` and `Factory` patterns. `highleveldesign.svg` file explains better.
+a tiny sample project that demonstrate `MVC` with `UseCase`, `Repository` and `Factory` patterns.
 
 ![plot](./highleveldesign.svg)
 
